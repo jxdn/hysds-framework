@@ -1,0 +1,2 @@
+- [[Create AWS Autoscaling Group for Verdi]]
+- [[Create AWS Resources for Staging Area]]
